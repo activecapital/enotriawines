@@ -213,6 +213,10 @@ body::after {
   padding: 4rem 2.5rem;
 }
 
+.about-inner p + p {
+  margin-top: 1.85em;
+}
+
 .section-label {
   display: flex;
   align-items: center;
